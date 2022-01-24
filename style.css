@@ -21,3 +21,13 @@
 .c-color{
   color: rgb(6, 0, 56);
 }
+#absolute{
+  position: absolute;
+  top: 0;
+  right: 0;
+  
+}
+.text-none{
+  text-decoration: none;
+  color: black;
+}
