@@ -11,4 +11,13 @@
   color: white;
     
 }
-
+.ankor{
+  color: black;
+  background-color: wheat;
+  text-decoration: none;
+  padding:10px 50px ;
+  border-radius: 10px;
+}
+.c-color{
+  color: rgb(6, 0, 56);
+}
